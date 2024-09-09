@@ -7,4 +7,3 @@ git commit -m "First Commit"
 git push -u origin main
 
 Thankyou
-Checking Again by making changes to both Github and Local Git
